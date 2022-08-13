@@ -7,7 +7,7 @@
 
 ## 🛠️ Technologies & Tools
 
-I'm familiar with many different languages, including Java, C++, JavaScript, and Python. Additionally, I work with various technologies and softwares, including Maven, Gradle, Git, MySQL, and MongoDB.
+I'm familiar with many different languages, including Java, C++, JavaScript, and Python. Additionally, I work with various technologies and softwares, including Express, Flask, Maven, Gradle, Git, MySQL, and MongoDB.
 
 ## 💬 Interests
 
