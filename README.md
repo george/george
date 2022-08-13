@@ -1,16 +1,14 @@
-### Hi there 👋
+<h1 align="center">I'm George.</h1>
+<a href="https://github.com/glove">
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=glove" alt="Profile Views">
+  </p>
+</a>
 
-<!--
-**glove/glove** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ Technologies & Tools
 
-Here are some ideas to get you started:
+I'm familiar with many different languages, including Java, C++, JavaScript, and Python. Additionally, I work with various technologies and softwares, including Maven, Gradle, Git, MySQL, and MongoDB.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💬 Interests
+
+My interests center around backend web development, general application development, and game-related plugin development. Additionally, I enjoy learning more about JVM.
