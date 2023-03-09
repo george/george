@@ -1,5 +1,5 @@
 <h1 align="center">I'm George.</h1>
-<a href="https://github.com/glove">
+<a href="https://github.com/george">
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=george" alt="Profile Views">
   </p>
