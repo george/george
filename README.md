@@ -6,13 +6,16 @@
     <img src="https://komarev.com/ghpvc/?username=george" alt="Profile Views">
 </p>
 
-### Who am I 🧑🏻
+<h3 align="center"> Who am I 🧑🏻 </h3>
 
 I'm a software engineer focused on delivering secure, scalable, and
-efficient code. I'm currently a Founding Engineer at @hostile, where I 
-work to create a more secure internet.
+efficient code. I'm currently a Founding Engineer at 
+<a href="https://github.com/hostile">@hostile</a>, where I 
+work to create a more secure internet for everyone.
 
-### Skills ⌨️
+<h3 align="center">Skills ⌨️</h3>
+
+<p align="center">
 
 While I'm focused on web development, my skills span across
 multiple stacks and countless languages. Here's what I work best with:
@@ -28,13 +31,14 @@ Databases - SQL (MySQL, PostgreSQL, SQL Server, SQLite3), MongoDB
 Extra - Redis, AWS, CI/CD, REST, JVM Bytecode, Websockets, Microservices,
 Docker, Linux, Agile / SCRUM
 
-### Contact 🌐
+</p>
+
+<h3 align="center"> Contact 🌐 </h3>
 
 Feel free to reach out and ask me about any of my projects, or for
 help with your own.
 
-I can be reached via email at <a href="mailto:george@hostile.org">george@hostile.org</a>.
-
-My portfolio site can be seen at <a href="https://george.hostile.org">george.hostile.org</a>
+I can be reached via email at <a href="mailto:george@hostile.org">george@hostile.org</a>, and
+my portfolio site can be seen at <a href="https://george.hostile.org">george.hostile.org</a>
 
 <img src="./wave-bottom.png">
