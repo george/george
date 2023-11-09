@@ -26,7 +26,7 @@ multiple stacks and countless languages. Here's what I work best with:
 <br/>
 **Frontend** - HTML / CSS, React.js / Next.js, Flutter, TailwindCSS
 <br/>
-**Databases** - SQL (MySQL, PostgreSQL, SQL Server, SQLite3), MongoDB
+**Databases** - SQL (MySQL, PostgreSQL, SQL Server, SQLite3, MongoDB
 <br/>
 **Extra** - Redis, AWS, CI/CD, REST, JVM Bytecode, Websockets, Microservices,
 Docker, Linux, Agile / SCRUM
