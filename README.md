@@ -1,5 +1,3 @@
-<img src="./wave-top.png">
-
 <h1 align="center">Hi, I'm George 👋</h1>
 
 <p align="center">
@@ -40,5 +38,3 @@ help with your own.
 
 I can be reached via email at <a href="mailto:george@hostile.org">george@hostile.org</a>, and
 my portfolio site can be seen at <a href="https://george.hostile.org">george.hostile.org</a>
-
-<img src="./wave-bottom.png">
