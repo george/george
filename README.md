@@ -6,8 +6,8 @@
 
 <h3 align="center"> About Me 🧑🏻 </h3>
 
-I'm a software engineer focused on delivering secure, scalable, and
-efficient code. I'm currently a Founding Engineer at 
+I'm a software engineer focused on delivering the highest quality, secure,
+scalable, and efficient code. I'm currently a Founding Engineer at 
 <a href="https://github.com/hostile">@hostile</a>, where I 
 work to create a more secure internet for everyone.
 
@@ -24,7 +24,7 @@ multiple stacks and countless languages. Here's what I work best with:
 <br/>
 **Frontend** - HTML / CSS, React.js / Next.js, Flutter, TailwindCSS
 <br/>
-**Databases** - SQL (MySQL, PostgreSQL, SQL Server, SQLite3, MongoDB
+**Databases** - SQL (MySQL, PostgreSQL, SQL Server, SQLite3), NoSQL (MongoDB)
 <br/>
 **Extra** - Redis, AWS, CI/CD, REST, JVM Bytecode, Websockets, Microservices,
 Docker, Linux, Agile / SCRUM
